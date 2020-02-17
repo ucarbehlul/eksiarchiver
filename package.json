@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ucarbehlul/eksiarchiver.git"
   }
 }
